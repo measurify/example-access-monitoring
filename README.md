@@ -8,3 +8,6 @@ developed using a cross-platform framework called Flutter that uses the Dart lan
 the extensions for the Dart language support and for the Flutter framework. Through the application it is possible to remotely control the number of people 
 in the shop both at the moment when the search is being carried out, both at a time of our choosing by entering date and time with the commands 
 provided.
+
+## EDGE
+First you need to install Edge Engine (follow the instructions in the dedicated repository). Then you need to enter your Wi-Fi network data and the Measurify login data. Make the connections described in chapter 3.1.1 of the thesis between board and sensors.Finally load the sketch on the microcontroller through "Arduino IDE".
