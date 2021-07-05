@@ -1,4 +1,5 @@
-#Title “PROGETTAZIONE E SVILUPPO DI UNA SISTEMA EMBEDDED PER IL CONTROLLO REMOTO DEGLI ACCESSI”
+# DESIGN AND DEVELOPMENT OF AN EMBEDDED SYSTEM FOR REMOTE ACCESS CONTROL
+
 The purpose of this thesis is to develop an embedded system for the detection of entrances and exits from a public place such as, for example, 
 in the chosen case, a supermarket. Two PIR (Passive InfraRed) sensors were used to acquire the data. A development board with ESP32 microcontroller 
 and integrated WiFi module was used to process the measurements. An LCD display was connected to the board for on-site viewing of the number of people in the shop.
